@@ -1,4 +1,4 @@
-# React + Vite
+# Carrito de compras con React + Vite
 
 Este proyecto es una aplicación de carrito de compras desarrollada con React y Vite. Proporciona una interfaz para explorar productos, agregarlos al carrito y gestionar las compras.
 
